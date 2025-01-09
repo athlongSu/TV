@@ -50,6 +50,14 @@ url_blacklist = [
     "[2409:8087:2001:20:2800:0:df6e:eb27]"
 ]
 
+announcements = [
+    {
+        "channel": "athlongSu",
+        "entries": [
+            {"name": "更新日期", "url": "https://gitlab.com/lr77/IPTV/-/raw/main/%E4%B8%BB%E8%A7%92.mp4"},
+        ]
+    }
+]
 
 epg_urls = [
     "https://live.fanmingming.com/e.xml",
