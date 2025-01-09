@@ -13,7 +13,6 @@ source_urls = [
     "https://tv.youdu.fan:666/live/",
     "http://ww.weidonglong.com/dsj.txt",
     "http://xhztv.top/zbc.txt",
-    “http://yuan.haitangw.net/ZB/”,
     “https://live.zhoujie218.top/tv/iptv4.m3u”,
     “https://tv.iill.top/m3u/Gather”,
     “http://aktv.top/live.m3u”,
