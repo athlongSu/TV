@@ -13,7 +13,6 @@ source_urls = [
     "https://tv.youdu.fan:666/live/",
     "http://ww.weidonglong.com/dsj.txt",
     "http://xhztv.top/zbc.txt",
-    “http://kxrj.site:55/lib/kx2024.txt”,
     “https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt”,
     “https://live.iptv365.org/live.txt”,
     "https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt",
