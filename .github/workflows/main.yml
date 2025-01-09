@@ -2,8 +2,9 @@ name: Daily Update
 
 on:
   schedule:
-    - cron: '45 21 * * *'
-  workflow_dispatch:
+    - cron: '0 8 * * *'  # 每天早上8点
+  workflow_dispatch:  # 手动触发
+
     branches:
       - main
 
