@@ -1,5 +1,5 @@
 # IPTV
-此项目通过其它直播源抓取集成一个总直播源，直播内容通过demo自定义进行运行爬取.
+此项目通过demo自定义运行爬取.
 > 声明: 所有播放源均收集于互联网，仅供测试研究学习，`不得商用!`
 ## 直播源调用地址
 - 仓库文件加速 [线路1](https://gh.con.sh/https://raw.githubusercontent.com/athlongSu/TV/main/live.m3u)
