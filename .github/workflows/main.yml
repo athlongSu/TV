@@ -36,7 +36,6 @@ jobs:
 
     - name: Run Python script
       run: python main.py
-
         fi
 
     env:
