@@ -36,6 +36,13 @@ jobs:
 
     - name: Run Python script
       run: python main.py
+        
+    - name: Commit and push if changed
+      run: |
+        git add -A
+        if ! git diff --staged --quiet; then
+          git commit -m "Auto-update live files"
+          git push
         fi
 
     env:
