@@ -54,10 +54,10 @@ announcements = [
     {
         "channel": "athlongSu",
         "entries": [
-            {"name": "update", "url": "https://liuliuliu.tv/api/channels/1997/stream", "logo": "http://175.178.251.183:6689/LR.jpg"},
-            {"name": "athlongSu", "url": "https://liuliuliu.tv/api/channels/233/stream", "logo": "http://175.178.251.183:6689/LR.jpg"},
-            {"name": "更新日期", "url": "https://gitlab.com/lr77/IPTV/-/raw/main/%E4%B8%BB%E8%A7%92.mp4", "logo": "http://175.178.251.183:6689/LR.jpg"},
-            {"name": None, "url": "https://gitlab.com/lr77/IPTV/-/raw/main/%E8%B5%B7%E9%A3%8E%E4%BA%86.mp4", "logo": "http://175.178.251.183:6689/LR.jpg"}
+            {"name": "update", "url": "https://liuliuliu.tv/api/channels/1997/stream", "logo": "https://bing.img.run/rand.php"},
+            {"name": "athlongSu", "url": "https://liuliuliu.tv/api/channels/233/stream", "logo": "https://bing.img.run/rand.php"},
+            {"name": "更新日期", "url": "https://gitlab.com/lr77/IPTV/-/raw/main/%E4%B8%BB%E8%A7%92.mp4", "logo": "https://bing.img.run/rand.php"},
+            {"name": None, "url": "https://gitlab.com/lr77/IPTV/-/raw/main/%E8%B5%B7%E9%A3%8E%E4%BA%86.mp4", "logo": "https://bing.img.run/rand.php"}
         ]
     }
 ]
